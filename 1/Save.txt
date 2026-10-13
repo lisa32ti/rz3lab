@@ -1,0 +1,3 @@
+Max: 10
+Min: 1
+Average: 5.000

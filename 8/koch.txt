@@ -1,0 +1,4 @@
+Koch Curve
+5
+F
+F=F+F-F-F+F
